@@ -1,0 +1,47 @@
+{
+  "enquiry": [
+    {
+      "firstName": "praveen",
+      "lastName": "Kumar",
+      "email": "praveen@gmail.com",
+      "mobile": "8248305309",
+      "weight": "81",
+      "height": "1.67",
+      "bmi": 29.043708989207214,
+      "bmiResult": "Overweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Toxic Fat reduction",
+        "Building Lean Muscle",
+        "Fitness"
+      ],
+      "haveGymBefore": "yes",
+      "enquiryDate": "2023-06-17T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "priya",
+      "lastName": "dharashini",
+      "email": "priya",
+      "mobile": "9629396139",
+      "weight": "55",
+      "height": "1.4",
+      "bmi": 28.061224489795922,
+      "bmiResult": "Overweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat reduction",
+        "Energy and Endurance",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-13T18:30:00.000Z",
+      "id": 3
+    }
+  ]
+}
